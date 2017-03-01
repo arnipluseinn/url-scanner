@@ -3,7 +3,7 @@ import sys
 import time
 
 # USAGE
-# $ python header.py url-list.txt /wp-content/
+# $ python scanner.py url-list.txt /wp-content/
 # This outputs url-list.output.log with only positive reponses
 
 def get_response(url):
